@@ -73,9 +73,7 @@ Cron job writing backdoor execution every 5 minutes to /tmp/cron.txt
 | ps aux | Discovery | T1057 | Process Discovery |
 | ls | Discovery | T1083 | File and Directory Discovery |
 | cat /etc/passwd | Discovery | T1087 | Account Discovery |
-| cd /tmp | Execution | T1059 | Command and Scripting Interpreter |
 | wget malware URL | Command & Control | T1105 | Ingress Tool Transfer |
-| crontab -l | Discovery | T1053 | Scheduled Task/Job Discovery |
 | echo backdoor cron | Persistence | T1053 | Scheduled Task/Job |
 
 ## Attacker Profile
