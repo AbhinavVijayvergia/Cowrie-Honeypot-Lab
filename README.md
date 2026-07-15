@@ -28,6 +28,7 @@
     ├── logs/
     │   └── cowrie-session-01.json
     ├── screenshots/
+    |   ├── lab-diagram.png
     │   ├── splunk-cowrie-events.png
     │   ├── high-risk-commands.png
     │   ├── credentials-captured.png
