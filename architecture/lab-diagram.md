@@ -3,13 +3,8 @@
 
 ## Network Topology
 
-    +------------------+          +------------------+          +------------------+
-    |  Second Laptop   |          |   Kali Linux VM  |          |  Main Laptop     |
-    |  (Attacker)      | -------> |  (Cowrie         | - - - -> |  (Splunk SIEM)   |
-    |                  |          |   Honeypot)      | (manual) |                  |
-    | Windows 11       |          | Port 2222        |          | Splunk 10.4.0    |
-    | IP: 192.168.1.83 |          | IP: 192.168.1.72 |          | IP: 192.168.1.234|
-    +------------------+          +------------------+          +------------------+
+![Lab Architecture](../screenshots/labdiagram.png)
+
 ## Component Roles
 
 | Component | Role | IP | OS |
