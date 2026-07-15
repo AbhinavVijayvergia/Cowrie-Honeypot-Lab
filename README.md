@@ -3,7 +3,7 @@
 > analyze, and detect real attack behavior using Splunk SIEM.
 
 ## Lab Architecture
-See [architecture/lab-diagram.md](architecture/lab-diagram.md)
+![Lab Architecture](screenshots/lab-diagram.png)
 
 **Quick Overview:**
 - Honeypot: Kali Linux VM — Cowrie SSH Honeypot (port 2222)
