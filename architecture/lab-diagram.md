@@ -3,7 +3,7 @@
 
 ## Network Topology
 
-![Lab Architecture](../screenshots/labdiagram.png)
+![Lab Architecture](../screenshots/lab-diagram.png)
 
 ## Component Roles
 
